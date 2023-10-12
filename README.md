@@ -1,1 +1,2 @@
-# blog_platform
+blogging platform
+.NET, Angular
